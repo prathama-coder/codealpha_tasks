@@ -62,7 +62,7 @@ An AI-powered healthcare application developed using **Streamlit** and **Machine
 
 ## 🧠 Parkinson Prediction
 
-![Parkinson](parkinson.PNG)
+![Parkinson]()
 
 ---
 
