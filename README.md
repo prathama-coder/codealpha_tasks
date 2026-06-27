@@ -38,31 +38,31 @@ An AI-powered healthcare application developed using **Streamlit** and **Machine
 
 ## 🏠 Home Dashboard
 
-![Home](images/home.png)
+![Home](home.PNG)
 
 ---
 
 ## 🩸 Diabetes Prediction
 
-![Diabetes](images/diabetes.png)
+![Diabetes](diabetes.PNG)
 
 ---
 
 ## ❤️ Heart Disease Prediction
 
-![Heart](images/heart.png)
+![Heart](heart.PNG)
 
 ---
 
 ## 🎀 Breast Cancer Prediction
 
-![Breast Cancer](images/breast.png)
+![Breast Cancer](breast.PNG)
 
 ---
 
 ## 🧠 Parkinson Prediction
 
-![Parkinson](images/parkinson.png)
+![Parkinson](parkinson.PNG)
 
 ---
 
