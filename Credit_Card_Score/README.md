@@ -97,19 +97,19 @@ Reason:
 
 ## Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.PNG)
 
 ---
 
 ## Prediction Summary
 
-![Prediction Summary](images/prediction_summary.png)
+![Prediction Summary](prediction_summary.PNG)
 
 ---
 
 ## Customer Risk Assessment
 
-![Risk Assessment](images/risk_assessment.png)
+![Risk Assessment](risk_assessment.PNG)
 
 ---
 
